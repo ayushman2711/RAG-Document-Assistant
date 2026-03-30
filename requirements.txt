@@ -1,0 +1,7 @@
+streamlit
+chromadb
+groq
+PyPDF2
+python-dotenv
+onnxruntime
+transformers
